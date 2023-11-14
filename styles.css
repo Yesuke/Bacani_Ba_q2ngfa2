@@ -1,0 +1,49 @@
+navbar{
+    background-color:rgb(0, 0, 0);
+    display:flex;
+    border: 1px;
+    color: black;
+}
+.name{
+    font-size: xx-large;
+    color: red;
+    font-family:'chiller';
+}
+.sprite {
+	background: url('images/') no-repeat -587px -72px;
+	width: 66px;
+	height: 66px;
+}
+footer{
+    background-color:rgb(0, 0, 0);
+    display:flex;
+    border: 1px;
+    color: black;
+}
+.soundcloud{
+    background: url('images/sprite3.png') no-repeat -587px -72px;
+	width: 66px;
+	height: 66px;
+	
+}
+section{
+background-color: black;
+    display:flex;
+    border: 1px;
+    height: 85vh;
+    color: rgb(0, 0, 0);
+}
+.text{
+    margin-top: 10vh;
+    text-align: center;
+    font-size: xx-large;
+    font-family:'chiller';
+    color: rgb(255, 0, 0);
+}
+.name a{
+    text-decoration: none;
+}
+.name a:visited{
+     color: rgb(255, 0, 0);
+     text-decoration: none;
+}
